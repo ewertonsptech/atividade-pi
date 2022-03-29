@@ -1,0 +1,22 @@
+.header {
+background-color: #6A5ACD;
+height: 250px;
+display: flex;
+justify-content: center;
+}
+.body{
+    width: 100%;
+}
+.flex-item{
+background-color: pink;
+height: 250px;
+width: 250px;
+border-style: dashed;
+border-color: red;
+border-width: 20px;
+}
+.flex-item{
+background-color: #40E0D0;
+height: 88%;
+width: 30%;
+}

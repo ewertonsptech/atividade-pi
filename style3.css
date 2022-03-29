@@ -1,0 +1,38 @@
+.header{
+    background-color: 	#FFA500;
+    height: 500px;
+    width: 500px;
+    
+    
+    }
+    
+    .flex-item{
+    background-color: #00FF00;
+    height: 250px;
+    width: 250px;
+    
+    }
+    .p{
+    color: white;
+    background-color: rebeccapurple;
+    font-size: 50px;
+    font-family: monospace;
+    font-weight: bold;
+    
+    }
+    body{
+    
+        width: 50%;
+    }
+    .flexitem{
+    width: fit-content;
+    background-color: navy;
+    
+    
+    }
+    .flexitem{
+    
+        height: 75%;
+        height: 50%;
+        background-color: pink;
+    }

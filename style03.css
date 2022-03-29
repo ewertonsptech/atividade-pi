@@ -1,0 +1,35 @@
+.header {
+    background-color: white;
+    height: 500px;
+    width: auto;
+    border-style: dotted;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+}
+body{
+
+    background-color: 	#778899;
+}
+.flexitem {
+background-color: yellow;
+height: 50px;
+width: 30%;
+
+
+}
+.flextem{
+    background-color: #FF4500;
+    height: 100px;
+    width: 30%;
+    
+    
+    }
+.flex-item {
+background-color: green;
+color: white;
+font-size: 30px;
+padding: 50px;
+margin: 50px;float: left;
+
+}    
